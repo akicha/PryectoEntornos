@@ -1,2 +1,2 @@
 # PryectoEntornos
-Aquí se pne la infrmación general sbre el proyecto.
+Aquí se pone la infrmación general sbre el proyecto.
